@@ -13,7 +13,9 @@ Realized basic machine learning algorithm using C++, including linear regression
 
 ## Publications
 1. ["RAPID" Regions-of-Interest Detection In Big Histopathological Images](https://arxiv.org/abs/1704.02083)
+
 ## Posts
 See [post](https://computervisionweb.wordpress.com/blog/) here.
+
 ## Contacts
 li.yin@mavs.uta.edu
