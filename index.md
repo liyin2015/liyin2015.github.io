@@ -12,7 +12,7 @@ Machine Learning; Computer Vision; Segmentation in big images
 Realized basic machine learning algorithm using C++, including linear regression, logistic regression, neural network, SVM, hierarchical clustering, apriori, k-means and so on. It has a MFC interface to set up parameters. See [code](https://github.com/liyin2015/DataProc) here.
 
 ##Publications
-[1]["RAPID" Regions-of-Interest Detection In Big Histopathological Images](https://arxiv.org/abs/1704.02083)
+1. ["RAPID" Regions-of-Interest Detection In Big Histopathological Images](https://arxiv.org/abs/1704.02083)
 
 ##Posts
 See [post](https://computervisionweb.wordpress.com/blog/) here.
