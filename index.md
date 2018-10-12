@@ -12,6 +12,5 @@ Realized basic machine learning algorithm using C++, including linear regression
 2. Sulimowicz, Li, Ishfaq Ahmad, and Alexander Aved. ["Superpixel-enhanced Pairwise Conditional Random Field for Semantic Segmentation."](https://arxiv.org/abs/1805.11737) arXiv preprint arXiv:1805.11737 (2018).
 3. Sulimowicz, Li, Ishfaq Ahmad, and Alexander Aved. ["A Multi-Layer Approach to Superpixel-based Higher-order Conditional Random Field for Semantic Image Segmentation."](https://arxiv.org/abs/1804.02032) arXiv preprint arXiv:1804.02032 (2018).
 
-
 ## Contacts
 li.yin@mavs.uta.edu
