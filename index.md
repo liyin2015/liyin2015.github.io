@@ -2,7 +2,7 @@
 ## Introduction
 This is mainly a presentation for my participated projects. [LinkedIn](https://www.linkedin.com/in/li-yin-00b0456b/) for resume, [Medium](https://medium.com/@lisulimowicz) for blogs, Instagram (liyinscience) for life. 
 ## Research Interest
-Machine Learning; Computer Vision; Segmentation in big images
+Machine Learning; Computer Vision; Segmentation (unsupervised, semantic, and instance segmentation); Drone Vision; Deep Learining (GAN, CNN); Pytorch, TensorFlow; 
 ## Projects
 1. Data Processing Basic software.
 Realized basic machine learning algorithm using C++, including linear regression, logistic regression, neural network, SVM, hierarchical clustering, apriori, k-means and so on. It has a MFC interface to set up parameters. See [code](https://github.com/liyin2015/DataProc) here.
