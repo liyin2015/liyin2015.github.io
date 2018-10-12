@@ -5,19 +5,6 @@ This is mainly a presentation for my participated projects. [LinkedIn](https://w
 ## Research Interests
 Machine Learning; Computer Vision; Segmentation (unsupervised, semantic, and instance segmentation); Drone Vision; Deep Learining (GAN, CNN); Pytorch, TensorFlow; 
 ## Projects
-### Data Processing Basic Software.
-Realized basic machine learning algorithm using C++, including linear regression, logistic regression, neural network, SVM, hierarchical clustering, apriori, k-means and so on. It has a MFC interface to set up parameters. 
-- [code](https://github.com/liyin2015/DataProc)
-
-### ROI detection in large histopathological medical images.
-![multi-stage segmentation](https://github.com/liyin2015/liyin2015.github.io/blob/master/images/multi.png)
-
-Proposed and implemented a coarse-to-fine multi-level unsupervised segmentation algorithm for large images. 
-- ["RAPID" Regions-of-Interest Detection In Big Histopathological Images
-Li Sulimowicz, Ishfaq Ahmad](https://arxiv.org/abs/1704.02083)
-- [Poster](https://github.com/liyin2015/liyin2015.github.io/blob/master/images/conference_poster_3.pdf)
-- [Code]()
-
 ### Superpixel-enhanced pairiwise Conditional Random Field for Semantic Segmentation
 ![sp-pairwise CRF](https://github.com/liyin2015/liyin2015.github.io/blob/master/images/process.png)
 
@@ -26,3 +13,14 @@ The first pairwise fully-connected CRF model that incorporate superpixel cues. O
 - [Superpixel-enhanced Pairwise Conditional Random Field for Semantic Segmentation](https://arxiv.org/abs/1805.11737)
 - [Slides](https://github.com/liyin2015/liyin2015.github.io/blob/master/images/LiSulimowicz_Sp_CRF.pptx)
 - [Code]()
+### ROI detection in large histopathological medical images.
+![multi-stage segmentation](https://github.com/liyin2015/liyin2015.github.io/blob/master/images/multi.png)
+
+Proposed and implemented a coarse-to-fine multi-level unsupervised segmentation algorithm for large images. 
+- ["RAPID" Regions-of-Interest Detection In Big Histopathological Images
+Li Sulimowicz, Ishfaq Ahmad](https://arxiv.org/abs/1704.02083)
+- [Poster](https://github.com/liyin2015/liyin2015.github.io/blob/master/images/conference_poster_3.pdf)
+- [Code]()
+### Data Processing Basic Software.
+Realized basic machine learning algorithm using C++, including linear regression, logistic regression, neural network, SVM, hierarchical clustering, apriori, k-means and so on. It has a MFC interface to set up parameters. 
+- [code](https://github.com/liyin2015/DataProc)
