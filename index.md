@@ -19,11 +19,3 @@ The first pairwise fully-connected CRF model that incorporate superpixel cues. O
 [Paper]()
 [Slides]()
 [Code]()
-
-'''## Publications
-1. L. Sulimowicz and I. Ahmad, ["“Rapid” regions-of-interest detection in big histopathological images,"](https://arxiv.org/abs/1704.02083) 2017 IEEE International Conference on Multimedia and Expo (ICME), Hong Kong, 2017, pp. 595-600.
-2. Sulimowicz, Li, Ishfaq Ahmad, and Alexander Aved. ["Superpixel-enhanced Pairwise Conditional Random Field for Semantic Segmentation."](https://arxiv.org/abs/1805.11737) arXiv preprint arXiv:1805.11737 (2018).
-3. Sulimowicz, Li, Ishfaq Ahmad, and Alexander Aved. ["A Multi-Layer Approach to Superpixel-based Higher-order Conditional Random Field for Semantic Image Segmentation."](https://arxiv.org/abs/1804.02032) arXiv preprint arXiv:1804.02032 (2018).
-
-## Contacts
-li.yin@mavs.uta.edu'''
