@@ -14,7 +14,7 @@ Realized basic machine learning algorithm using C++, including linear regression
 Proposed and implemented a coarse-to-fine multi-level unsupervised segmentation algorithm for large images. 
 - ["RAPID" Regions-of-Interest Detection In Big Histopathological Images
 Li Sulimowicz, Ishfaq Ahmad](https://arxiv.org/abs/1704.02083)
-- [Poster](https://github.com/liyin2015/liyin2015.github.io/blob/master/images/better_version.pdf)
+- [Poster](https://github.com/liyin2015/liyin2015.github.io/blob/master/images/conference_poster_3.pdf)
 - [Code]()
 
 ### Superpixel-enhanced pairiwise Conditional Random Field for Semantic Segmentation
