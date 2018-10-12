@@ -9,7 +9,8 @@ Realized basic machine learning algorithm using C++, including linear regression
 
 2. ROI detection in large histopathological medical images.
 Proposed and implemented a coarse-to-fine multi-level unsupervised segmentation algorithm for large images. 
-- [Paper]()
+- ["RAPID" Regions-of-Interest Detection In Big Histopathological Images
+Li Sulimowicz, Ishfaq Ahmad](https://arxiv.org/abs/1704.02083)
 - [Poster]()
 - [Code]()
 
@@ -17,6 +18,6 @@ Proposed and implemented a coarse-to-fine multi-level unsupervised segmentation 
 
 The first pairwise fully-connected CRF model that incorporate superpixel cues. Our model has better accuracy and speed compared with corresponding conventional superpixel-based higher-order CRFs.
 
--[Paper]()
--[Slides]()
--[Code]()
+- [Superpixel-enhanced Pairwise Conditional Random Field for Semantic Segmentation](https://arxiv.org/abs/1805.11737)
+- [Slides]()
+- [Code]()
