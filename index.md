@@ -1,7 +1,7 @@
-### Welcome to Li Sulimowicz's personal website.
+### Welcome to Li Yin's personal website.
 ## Introduction
 This is mainly a presentation for my participated projects. [LinkedIn](https://www.linkedin.com/in/li-yin-00b0456b/) for resume, [Medium](https://medium.com/@lisulimowicz) for blogs, Instagram (liyinscience) for life. 
-## Research Interest
+## Research Interests
 Machine Learning; Computer Vision; Segmentation (unsupervised, semantic, and instance segmentation); Drone Vision; Deep Learining (GAN, CNN); Pytorch, TensorFlow; 
 ## Projects
 ### Data Processing Basic Software.
