@@ -1,10 +1,6 @@
 ### Welcome to Li Sulimowicz's personal website.
-## Education
-PhD in Computer Science at University of Texas at Arlington, 08/2015--Present.
-
-Bachelor of Science in Communication Engineering at University of Electronic Science and Technology of China, 09/2009--07/2013
-## Working Experience
-C++ Software Engineer at TD-Tech Ltd., 09/2013--08/2015
+## Introduction
+This is mainly a presentation for my participated projects. [LinkedIn](https://www.linkedin.com/in/li-yin-00b0456b/) for resume, [Medium](https://medium.com/@lisulimowicz) for blogs, Instagram (liyinscience) for life. 
 ## Research Interest
 Machine Learning; Computer Vision; Segmentation in big images
 ## Projects
