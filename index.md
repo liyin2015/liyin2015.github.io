@@ -14,7 +14,7 @@ Realized basic machine learning algorithm using C++, including linear regression
 Proposed and implemented a coarse-to-fine multi-level unsupervised segmentation algorithm for large images. 
 - ["RAPID" Regions-of-Interest Detection In Big Histopathological Images
 Li Sulimowicz, Ishfaq Ahmad](https://arxiv.org/abs/1704.02083)
-- [Poster]()
+- [Poster](https://github.com/liyin2015/liyin2015.github.io/blob/master/images/better_version.pdf)
 - [Code]()
 
 ### Superpixel-enhanced pairiwise Conditional Random Field for Semantic Segmentation
@@ -23,5 +23,5 @@ Li Sulimowicz, Ishfaq Ahmad](https://arxiv.org/abs/1704.02083)
 The first pairwise fully-connected CRF model that incorporate superpixel cues. Our model has better accuracy and speed compared with corresponding conventional superpixel-based higher-order CRFs.
 
 - [Superpixel-enhanced Pairwise Conditional Random Field for Semantic Segmentation](https://arxiv.org/abs/1805.11737)
-- [Slides]()
+- [Slides](https://github.com/liyin2015/liyin2015.github.io/blob/master/images/LiSulimowicz_Sp_CRF.pptx)
 - [Code]()
