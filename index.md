@@ -9,7 +9,7 @@ Realized basic machine learning algorithm using C++, including linear regression
 - [code](https://github.com/liyin2015/DataProc)
 
 ### ROI detection in large histopathological medical images.
-![multi-stage segmentation](liyin2015.github.io/images/multi.png)
+![multi-stage segmentation](https://github.com/liyin2015/liyin2015.github.io/blob/master/images/multi.png)
 
 Proposed and implemented a coarse-to-fine multi-level unsupervised segmentation algorithm for large images. 
 - ["RAPID" Regions-of-Interest Detection In Big Histopathological Images
