@@ -9,13 +9,15 @@ Realized basic machine learning algorithm using C++, including linear regression
 
 2. ROI detection in large histopathological medical images.
 Proposed and implemented a coarse-to-fine multi-level unsupervised segmentation algorithm for large images. 
-[Paper]()
-[Poster]()
-[Code]()
+
+-[Paper]()
+-[Poster]()
+-[Code]()
 
 3. Superpixel-enhanced pairiwise Conditional Random Field for Semantic Segmentation
 
 The first pairwise fully-connected CRF model that incorporate superpixel cues. Our model has better accuracy and speed compared with corresponding conventional superpixel-based higher-order CRFs.
-[Paper]()
-[Slides]()
-[Code]()
+
+-[Paper]()
+-[Slides]()
+-[Code]()
