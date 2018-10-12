@@ -18,7 +18,7 @@ Li Sulimowicz, Ishfaq Ahmad](https://arxiv.org/abs/1704.02083)
 - [Code]()
 
 ### Superpixel-enhanced pairiwise Conditional Random Field for Semantic Segmentation
-![sp-pairwise CRF]()
+![sp-pairwise CRF](https://github.com/liyin2015/liyin2015.github.io/blob/master/images/process.png)
 
 The first pairwise fully-connected CRF model that incorporate superpixel cues. Our model has better accuracy and speed compared with corresponding conventional superpixel-based higher-order CRFs.
 
