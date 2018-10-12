@@ -5,7 +5,8 @@ This is mainly a presentation for my participated projects. [LinkedIn](https://w
 Machine Learning; Computer Vision; Segmentation (unsupervised, semantic, and instance segmentation); Drone Vision; Deep Learining (GAN, CNN); Pytorch, TensorFlow; 
 ## Projects
 ### Data Processing Basic Software.
-Realized basic machine learning algorithm using C++, including linear regression, logistic regression, neural network, SVM, hierarchical clustering, apriori, k-means and so on. It has a MFC interface to set up parameters. See [code](https://github.com/liyin2015/DataProc) here.
+Realized basic machine learning algorithm using C++, including linear regression, logistic regression, neural network, SVM, hierarchical clustering, apriori, k-means and so on. It has a MFC interface to set up parameters. 
+- [code](https://github.com/liyin2015/DataProc) here.
 
 ### ROI detection in large histopathological medical images.
 Proposed and implemented a coarse-to-fine multi-level unsupervised segmentation algorithm for large images. 
