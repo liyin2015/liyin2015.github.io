@@ -1,1 +1,1 @@
-"yous/whiteglass"
+gem "jekyll-whiteglass"
