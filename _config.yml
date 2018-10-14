@@ -2,7 +2,7 @@ title: Li Sulimowicz
 description: To make a difference
 google_analytics: 
 show_downloads: true
-remote-theme: yous/whiteglass 
+theme: jekyll-whiteglass 
 
 gems:
   - jekyll-mentions
