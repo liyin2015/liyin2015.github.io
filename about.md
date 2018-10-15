@@ -3,9 +3,6 @@ layout: page
 title: "About"
 permalink: /about/
 ---
-
-whiteglass is a minimal, responsive Jekyll theme for hackers.
-
 ### Welcome to Li Yin's personal website.
 I know it is not well organized yet. Working on it...
 ## Introduction
