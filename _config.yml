@@ -2,7 +2,7 @@
 #description: To make a difference
 #google_analytics: 
 #show_downloads: true
-theme: jekyll-whiteglass 
+theme: minima #jekyll-whiteglass 
 
 plugins:
   - jekyll-archives
