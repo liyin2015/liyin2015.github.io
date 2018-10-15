@@ -3,6 +3,7 @@ layout: project
 title: "Projects"
 permalink: /project/
 ---
+## Projects
 ### Superpixel-enhanced pairiwise Conditional Random Field for Semantic Segmentation
 ![sp-pairwise CRF](https://github.com/liyin2015/liyin2015.github.io/blob/master/images/process.png)
 
