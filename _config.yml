@@ -43,7 +43,7 @@ theme: minima
 
 plugins:
  - jekyll-feed
-- jekyll-seo-tag
+ - jekyll-seo-tag
 
 #plugins:
 #  - jekyll-archives
