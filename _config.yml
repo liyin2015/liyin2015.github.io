@@ -1,8 +1,6 @@
 title: Li Yin
 #author: Li Yin
 email: liyin199102@gmail.com
-description: >
-  Every big acchievement is a series of small meaningful daily events.
 # social links
 twitter_username: LiSulimowicz
 github_username:  liyin2015
@@ -22,6 +20,9 @@ instagram_username: liyinscience
 #   instance: example.com
 # - username: jekyll2
 #   instance: example.com
+
+description: >
+  Every big acchievement is a series of small meaningful daily events.
 
 
 show_excerpts: false # set to true to show excerpts on the homepage
