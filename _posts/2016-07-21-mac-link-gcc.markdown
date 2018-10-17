@@ -4,9 +4,9 @@ title: List 100
 layout: post
 ---
 ### Career-wise 3/11
-Speak English like native Americans 
-Write blogs that obtain 10k claps 
-✓ Been accepted in phd program of a USA college
+1. Speak English like native Americans
+2. Write blogs that obtain 10k claps 
+3. ✓ Been accepted in phd program of a USA college
 ✓ Become a permanent resident of USA
 Be a book author ( working on my first book about algorithms）
 Get offer from FAANN companies 
