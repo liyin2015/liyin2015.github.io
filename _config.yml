@@ -21,8 +21,8 @@ instagram_username: liyinscience
 # - username: jekyll2
 #   instance: example.com
 
-description: 
-Big acchievement takes TIME and PASSION!
+description: >
+  Big acchievement takes TIME and PASSION!
 
 
 show_excerpts: false # set to true to show excerpts on the homepage
